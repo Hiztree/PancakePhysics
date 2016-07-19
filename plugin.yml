@@ -1,0 +1,8 @@
+name: PancakePhysics
+version: 1.0
+main: me.hiztree.pancakephysics.PancakePhysics
+description: A physics toggle plugin for Pancake Tekkit.
+commands:
+  pancakephysics:
+    description: Toggle block phyics.
+    usage: /pancakephysics <true/false>
